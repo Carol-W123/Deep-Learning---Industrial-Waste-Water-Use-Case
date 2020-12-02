@@ -1,5 +1,4 @@
 # Deep-Learning---Waste-Water-Use-Case
-This is one of the real world use case I have worked on by applying my data science and machine learning knowledge.  
 
 # The aim of this project is to more efficiently manage and release wastewater to mitigate increase the river water quality. The business value of this project falls into three buckets:
 1.	Improve on operating parameters to identify risk areas and enhance decision making.
